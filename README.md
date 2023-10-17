@@ -1,7 +1,7 @@
- 👋 Hi, I’m DRAX_10017
+YO! DRAX here🐸
  
  
- just poped in sophomore year
+ just popped in sophomore year
 
 
 <!---
