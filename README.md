@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DRAX_10017</h1>
+<h1 align="center">Hi 👋, I'm <i>DRAX_10017</i></h1>
 <h3 align="center">A Passionate CS Students</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranger-drax&label=Profile%20views&color=0e75b6&style=flat" alt="ranger-drax" /> </p>
