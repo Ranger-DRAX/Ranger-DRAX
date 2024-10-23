@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Comic Sans MS', 'Comic Sans', cursive;"> YO 🤟, I'm <i>DRAX_10017</i></h1>
 
-<h3 align="center" style="font-family: 'Comic Sans MS', 'Comic Sans', cursive;"> A Passionate CS Students  </h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
