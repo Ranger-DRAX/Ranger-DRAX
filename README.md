@@ -61,4 +61,9 @@
 </p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ranger-drax&theme=gotham&hide_border=true&border_radius=5&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<div style="text-align: center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ranger-drax&theme=radical&hide_border=true&border_radius=5&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" style="width: 80%; max-width: 700px;"/>
+  </a>
+</div>
+
