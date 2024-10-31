@@ -6,13 +6,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/abdur rahman arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdur rahman arafat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/drax_10017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="drax_10017" height="30" width="40" /></a>
-<a href="https://fb.com/abdur rahman arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdur rahman arafat" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/drax_10017" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="drax_10017" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ranger drax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranger drax" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Abdur Rahman Arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdur Rahman Arafat" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/DRAX_10017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="drax_10017" height="30" width="40" /></a>
+<a href="https://fb.com/10017Arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdur rahman arafat" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/DRAX_10017" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="drax_10017" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Ranger DRAX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranger drax" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/drax_10017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="drax_10017" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/drax_10017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drax_10017" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/DRAX_10017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drax_10017" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
