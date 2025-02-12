@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+DRAX_10017!+🚀;Welcome+to+my+Profile!+✨" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=YO!!!+👋;It's+DRAX_10017!+🚀;Welcome+to+my+Profile!+✨" />
   </h1>
   
   <div align="center">
@@ -12,7 +12,6 @@
   class AboutMe:
       def __init__(self):
           self.name = "DRAX_10017"
-          self.role = "Software Developer"
           self.languages = ["Python", "Java", "JavaScript", "C"]
           self.databases = ["MongoDB", "MySQL", "PostgreSQL"]
           self.always_learning = True
@@ -26,13 +25,10 @@
   
   <h2 align="center">🌐 Connect With Me</h2>
   <p align="center">
-    <a href="https://linkedin.com/in/Abdur Rahman Arafat" target="blank">
+    <a href="https://www.linkedin.com/in/arafat10017/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
-    <a href="https://stackoverflow.com/users/DRAX_10017" target="blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" />
-    </a>
-    <a href="https://fb.com/10017Arafat" target="blank">
+    <a href="https://www.facebook.com/Arafat10017/" target="blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
     </a>
   </p>
@@ -86,7 +82,7 @@
     <a href="https://www.codechef.com/users/DRAX_10017">
       <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" />
     </a>
-    <a href="https://www.hackerrank.com/Ranger DRAX">
+    <a href="https://www.hackerrank.com/profile/DRAX_10017">
       <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" />
     </a>
     <a href="https://codeforces.com/profile/drax_10017">
