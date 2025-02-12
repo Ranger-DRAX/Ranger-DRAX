@@ -1,70 +1,113 @@
-<h1 align="center" style="font-family: 'Comic Sans MS', 'Comic Sans', cursive;"> YO 🤟, I'm <i>DRAX_10017</i></h1>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/Abdur Rahman Arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdur Rahman Arafat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/DRAX_10017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="drax_10017" height="30" width="40" /></a>
-<a href="https://fb.com/10017Arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdur rahman arafat" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/DRAX_10017" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="drax_10017" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Ranger DRAX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranger drax" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/drax_10017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="drax_10017" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/DRAX_10017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drax_10017" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
-
-
-<div style="text-align: center;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ranger-drax&theme=radical&hide_border=true&border_radius=5&mode=weekly&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" style="width: 80%; max-width: 700px;"/>
-  </a>
-</div>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+DRAX_10017!+🚀;Welcome+to+my+Profile!+✨" />
+  </h1>
+  
+  <div align="center">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ranger-drax&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="stats" />
+  </div>
+  
+  <br>
+  
+  ```python
+  class AboutMe:
+      def __init__(self):
+          self.name = "DRAX_10017"
+          self.role = "Software Developer"
+          self.languages = ["Python", "Java", "JavaScript", "C"]
+          self.databases = ["MongoDB", "MySQL", "PostgreSQL"]
+          self.always_learning = True
+      
+      def say_hi(self):
+          print("Thanks for dropping by! Let's build something amazing together! 🚀")
+  
+  me = AboutMe()
+  me.say_hi()
+  ```
+  
+  <h2 align="center">🌐 Connect With Me</h2>
+  <p align="center">
+    <a href="https://linkedin.com/in/Abdur Rahman Arafat" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    <a href="https://stackoverflow.com/users/DRAX_10017" target="blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" />
+    </a>
+    <a href="https://fb.com/10017Arafat" target="blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+    </a>
+  </p>
+  
+  <h2 align="center">⚡ Tech Stack</h2>
+  
+  <div align="center">
+    <h3>🔥 Programming Languages</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
+    </p>
+  
+    <h3>🎨 Frontend</h3>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+    </p>
+  
+    <h3>🛠 Frameworks & Tools</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
+      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+    </p>
+  
+    <h3>🗄️ Databases</h3>
+    <p>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+    </p>
+  
+    <h3>🛠️ Dev Tools</h3>
+    <p>
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
+    </p>
+  </div>
+  
+  <h2 align="center">📊 GitHub Stats</h2>
+  
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ranger-drax&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </div>
+  
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ranger-drax&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="GitHub Profile Trophy" />
+  </div>
+  
+  <h2 align="center">👨‍💻 Coding Profiles</h2>
+  <p align="center">
+    <a href="https://www.codechef.com/users/DRAX_10017">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" />
+    </a>
+    <a href="https://www.hackerrank.com/Ranger DRAX">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" />
+    </a>
+    <a href="https://codeforces.com/profile/drax_10017">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces" />
+    </a>
+    <a href="https://www.leetcode.com/DRAX_10017">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
+    </a>
+  </p>
+  
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ranger-drax&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </div>
+  
+  <!-- Snake Game Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranger-drax/ranger-drax/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranger-drax/ranger-drax/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ranger-drax/ranger-drax/output/github-contribution-grid-snake.svg" />
+  </picture>
