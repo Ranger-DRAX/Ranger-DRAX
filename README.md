@@ -67,15 +67,7 @@
     </p>
   </div>
   
-  <h2 align="center">📊 GitHub Stats</h2>
   
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ranger-drax&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </div>
-  
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ranger-drax&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="GitHub Profile Trophy" />
-  </div>
   
   <h2 align="center">👨‍💻 Coding Profiles</h2>
   <p align="center">
