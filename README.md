@@ -13,6 +13,7 @@
       def __init__(self):
           self.name = "DRAX_10017"
           self.languages = ["Python", "Java", "JavaScript", "C"]
+          self.library = ["Flask", "Express", "React", "Pytorch", "Numpy"]
           self.databases = ["MongoDB", "MySQL", "PostgreSQL"]
           self.always_learning = True
       
