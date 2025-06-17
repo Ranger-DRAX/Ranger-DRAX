@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=YO!!!+👋;It's+DRAX_10017!+🚀;Welcome+to+my+Profile!+✨" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=YO!!!+👋;It's+Abdur Rahman Arafat!+🚀;Welcome+to+my+Profile!+✨" />
   </h1>
   
   <div align="center">
@@ -11,7 +11,7 @@
   ```python
   class AboutMe:
       def __init__(self):
-          self.name = "DRAX_10017"
+          self.name = "Abdur Rahman Arafat"
           self.languages = ["Python", "Java", "JavaScript", "C"]
           self.library = ["Flask", "Express", "React", "Pytorch", "Numpy"]
           self.databases = ["MongoDB", "MySQL", "PostgreSQL"]
